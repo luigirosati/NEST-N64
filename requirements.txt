@@ -1,0 +1,4 @@
+# Tested with Python 3.14, NEST 3.10.0, numpy 2.5, matplotlib 3.11.
+nest-simulator>=3.10
+numpy>=1.24
+matplotlib>=3.7
